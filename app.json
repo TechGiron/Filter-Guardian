@@ -1,14 +1,14 @@
 {
     "name": "Filter Guardian",
     "description": "Filter Guardian Bot for @moviesguardianss join now",
-    "logo": "https://telegra.ph/file/a2a1dac049b50dc7f8dfb.jpg",
+    "logo": "https://telegra.ph/file/a47fc7a9fda615ec5d4fd.jpg",
     "keywords": [
         "UNLIMITED",
         "Filter",
         "Telegram Bot",
         "TECHNO MINDZ"
     ],
-    "website": "https://t.me/Technomindzchat",
+    "website": "https://t.me/moviesguardianss",
     "repository": "https://github.com/TechGiron/Filter-Guardian",
     "success_url": "https://telegram.dog/TECHNOMINDZCHAT",
     "env": {
